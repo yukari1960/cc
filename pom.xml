@@ -11,7 +11,7 @@
 
     <properties>
         <!--统一定义依赖版本如下:-->
-        <spring.version>5.1.5.RELEASE</spring.version>
+        <spring.version>5.1.18.RELEASE</spring.version>
         <!--省略其他依赖版本的定义-->
     </properties>
     <dependencyManagement>
